@@ -249,6 +249,25 @@ TODO
 
 
 
+### aggregation of multiple sources
+
+every peer can upload its content to multiple publishers
+
+globally, there are many many publishers,
+and i want to subscribe to the news feeds of many peers
+
+but i dont want to use some fancy webinterface for every publisher,
+like protonmail.com, which offers no IMAP server for free accounts.
+
+instead, i want a "news aggregator" (RSS reader, newsreader) to aggregate content
+from many peers over many publishers
+
+this should be more efficient than RSS,
+more similar to git, where only missing data is transferred from server to client
+= incremental updates
+
+
+
 ## see also
 
 - https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking
@@ -306,6 +325,9 @@ TODO
       But this approach isn't the best for managing state.
       State needs to be mutable, and fast.
       Can I ask why you never considered [GUN](https://github.com/amark/gun)? We're faster than many centralized databases, yet completely P2P/decentralized and trustless (cryptographically secure).
+- NNTP: Network News Transfer Protocol
+  - aka "usenet"
+  - https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol
 - https://ssd.eff.org/ Surveillance Self-Defense. Tips, Tools and How-tos for Safer Online Communications
 - https://github.com/2gatherproject/decentralized-social-apps-guide#githubgitlab-alternatives
 - https://github.com/gdamdam/awesome-decentralized-web#collaboration
