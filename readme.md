@@ -18,6 +18,14 @@ flatbuffers is a new version of protobuf (protocol-buffers)
 
 text protocols are slow and verbose
 
+the protocol should be machine-readable first, and human-readable second
+
+the "canonical" form of the data should be optimized for high speed and small size.
+this form is used for storage and transfer of data
+
+from the machine-readable format, users can always generate human-readable formats, aka "disassembly".
+but this case is rare, because most people dont need to "read the source"
+
 bad examples
 
 - JSON: nostr, ...
