@@ -339,3 +339,12 @@ more similar to git, where only missing data is transferred from server to clien
 - https://ssd.eff.org/ Surveillance Self-Defense. Tips, Tools and How-tos for Safer Online Communications
 - https://github.com/2gatherproject/decentralized-social-apps-guide#githubgitlab-alternatives
 - https://github.com/gdamdam/awesome-decentralized-web#collaboration
+- https://github.com/markqvist/Reticulum - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+  - https://reticulum.network/
+  - https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs
+  - https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs
+    - https://www.reddit.com/r/selfhosted/comments/1nqyr8h/we_built_a_p2p_vpn_that_runs_over_a_reticulum/
+  - https://github.com/markqvist/lxmf
+  - https://github.com/markqvist/sideband
+  - https://unsigned.io/website/hardware/RNode.html
+    - While speeds are lower than WiFi, typical communication ranges are many times higher. Several kilometers can be acheived with usable bitrates, even in urban areas, and over 100 kilometers can be achieved in line-of-sight conditions.
