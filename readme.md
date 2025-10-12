@@ -288,6 +288,7 @@ more similar to git, where only missing data is transferred from server to clien
 - bittorrent
   - gittorrent (old, broken) https://github.com/cjb/GitTorrent
   - zeronet https://github.com/HelloZeroNet/ZeroNet
+    - https://github.com/ZeroNetX/ZeroNet
 - retroshare 
   - https://github.com/RetroShare/RetroShare
   - https://www.linux-magazine.com/Online/Features/RetroShare
@@ -336,6 +337,7 @@ more similar to git, where only missing data is transferred from server to clien
 - NNTP: Network News Transfer Protocol
   - aka "usenet"
   - https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol
+  - https://github.com/mrusme/superhighway84 - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 - https://ssd.eff.org/ Surveillance Self-Defense. Tips, Tools and How-tos for Safer Online Communications
 - https://github.com/2gatherproject/decentralized-social-apps-guide#githubgitlab-alternatives
 - https://github.com/gdamdam/awesome-decentralized-web#collaboration
