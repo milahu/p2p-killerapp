@@ -350,3 +350,7 @@ more similar to git, where only missing data is transferred from server to clien
   - https://github.com/markqvist/sideband
   - https://unsigned.io/website/hardware/RNode.html
     - While speeds are lower than WiFi, typical communication ranges are many times higher. Several kilometers can be acheived with usable bitrates, even in urban areas, and over 100 kilometers can be achieved in line-of-sight conditions.
+- https://github.com/Tribler/tribler
+  - https://www.tribler.org/anonymity.html
+  - https://github.com/Tribler/tribler/wiki/Hidden-Services-Specifications-for-anonymous-seeding
+  - https://github.com/Tribler/tribler/wiki/Anonymous-Downloading-and-Streaming-specifications
