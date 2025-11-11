@@ -255,6 +255,41 @@ see also
 
 TODO
 
+see also [doc/2025-09-04.generic-tagging-and-voting-system.md](doc/2025-09-04.generic-tagging-and-voting-system.md)
+
+
+
+### p2p internet archive
+
+keywords:
+
+- decentralizing the internet archive
+- decentralizing web.archive.org
+- decentralizing archive.today
+
+problem: archive.org is too centralized, archive.today is too centralized, ...
+
+these services will not live forever,
+especially now as the global trend towards more censorship
+is getting more aggressive every day
+
+so we need some kind of peer-to-peer internet archive
+
+one challenge here is the problem of trust and voting:
+why should i trust other peers to not modify the archived data?
+how can i give feedback on the archived data hosted by other peers?
+(feedback as in: upvotes, downvotes, comments, tags)
+
+another challenge is the hosting incentive:
+why should other peers host content that i value?
+do i pay other peers for their hosting service?
+
+another challenge is the discoverability of content:
+assuming i have the original url of some content,
+how do i find other peers who are hosting snapshots of this content?
+
+see also [doc/2025-09-04.generic-tagging-and-voting-system.md](doc/2025-09-04.generic-tagging-and-voting-system.md)
+
 
 
 ### aggregation of multiple sources
