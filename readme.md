@@ -311,6 +311,24 @@ more similar to git, where only missing data is transferred from server to clien
 
 
 
+## possible project names
+
+- tribesnet
+  - stable tribes are the basis for this network
+  - its not a "federation of tribes",
+    because "federation" reminds of over-centralization
+    (conspiracy, pacifism, fascism)
+- mirrornet
+  - every peer can mirror contents from other peers
+- archivenet
+  - every peer can archive contents from other peers
+- relaynet
+  - every peer can relay contents from other peers
+- cachenet
+  - every peer can cache contents from other peers
+
+
+
 ## see also
 
 - https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking
