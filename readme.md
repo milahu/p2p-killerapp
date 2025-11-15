@@ -326,6 +326,9 @@ more similar to git, where only missing data is transferred from server to clien
   - every peer can relay contents from other peers
 - cachenet
   - every peer can cache contents from other peers
+- uncensorednet
+  - uncensored source of information
+  - censorship-resistant hosting of all contents (yes also illegal contents)
 
 
 
