@@ -311,6 +311,47 @@ more similar to git, where only missing data is transferred from server to clien
 
 
 
+### personality types
+
+users can rate themselves and others in terms of personality types
+
+personality type questionnaires can be imported into the system,
+so all users can publish their answers.
+every question can be answered with an integer
+between +100 ("yes") and -100 ("no")
+
+related:
+https://www.personality-database.com/
+
+
+
+#### interpersonal compatibility
+
+there are 2 reasons to like or hate people:
+personal reasons and objective reasons.
+
+there are 2 personal reasons to like people:
+you follow them or they follow you.
+(follow = trust = student)
+(lead = influence = teacher)
+
+there are infinite objective reasons,
+which are encoded as tags ("hashtags")
+which users can assign to others
+with an integer weight
+between +100 ("yes") and -100 ("no")
+
+users can rate others based on these reasons.
+
+ideally, at some point,
+there should appear a pattern of human relations,
+based on personality type and gender (male or female).
+a possible solution for such a pattern of human relations
+is the
+[pallas pattern of human relations](https://github.com/milahu/alchi)
+
+
+
 ## possible project names
 
 - tribesnet
