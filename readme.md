@@ -410,3 +410,9 @@ more similar to git, where only missing data is transferred from server to clien
   - https://www.tribler.org/anonymity.html
   - https://github.com/Tribler/tribler/wiki/Hidden-Services-Specifications-for-anonymous-seeding
   - https://github.com/Tribler/tribler/wiki/Anonymous-Downloading-and-Streaming-specifications
+- gitgeist
+  - [gitgeist: a git-based social network proof of concept](http://web.archive.org/web/20250914132649/https://www.karimyaghmour.com/blog/2019/02/gitgeist-a-git-based-social-network-proof-of-concept.html)
+    - "Looks like reinventing www.fossil-scm.org"
+    - "good luck with scaling and hosting" https://github.com/CocoaPods/CocoaPods/issues/4989#issuecomment-193772935
+  - [gitgeist: a git-based social network proof of concept @ lwn.net](https://lwn.net/Articles/780365/)
+  - https://github.com/opersys/gitgeist-poc
