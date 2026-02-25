@@ -169,6 +169,77 @@ the worst abuses and ensure that officials who aren't deterred can be held to ac
 
 
 
+#### censortrace
+
+> content is removed and leaves no trace
+
+we need a way to detect censorship.
+
+for example, i have the suspicion that most of my sent emails are censored,
+so they are never delivered to the recipients, but i cannot prove it.
+
+the emails just seem to disappear without a trace,
+i get zero replies from recipients,
+and i get no error message like
+
+> Undelivered Mail Returned to Sender.
+> error: rejected by spam filter
+
+i assume the main problem here is gmail (google mail)
+
+but i also assume that **all clearnet email providers**
+are controlled by some secret service (CIA, MI6, Mossad, BND, FSB, MSS, ...)
+who is actively manipulating message delivery
+(active measures,
+[controlling of others’ relationships](https://de.wikipedia.org/wiki/Bindungstoleranz),
+control over mate choice,
+no [freedom of association](https://en.wikipedia.org/wiki/Freedom_of_association),
+gatekeeping of friendships,
+control freaks,
+...)
+
+https://www.reddit.com/r/GMail/comments/1ba6026/emails_not_sending_no_bounce_message/
+
+https://www.mailpool.ai/blog/the-phantom-bounce-why-your-emails-disappear-without-a-trace-and-how-to-fix-it
+
+https://powerusers.codidact.com/posts/293711
+
+https://www.reddit.com/r/GMail/comments/2892dr/is_gmail_silently_deleting_emails/
+
+https://ntkp.substack.com/p/google-chrome-and-gmail-the-silent-c75
+
+> Emails Selectively Blocked: Messages containing sensitive content, such as politically controversial information or whistleblower reports, are often blocked before reaching the intended recipient.
+
+> Emails Silently Deleted: Certain emails just disappear from inboxes without warning, particularly those involving sensitive discussions.
+
+> Shadowbanning & Isolation: Some individuals effectively find themselves cut off from communication as their messages are silently routed to spam folders across multiple platforms, reducing their visibility and engagement.
+
+> Several whistleblowers, including former Google employees, have provided evidence that Gmail actively filters emails based on content-sensitive AI algorithms. Leaked internal documents have shown that emails containing political keywords or links to investigative journalism are flagged, downranked, or isolated.
+
+> Google has invested heavily in AI-driven content control mechanisms that use machine learning to categorize, suppress, and modify information before it can spread. Some key elements include:
+>
+> Jigsaw Program: Initially developed to combat extremism, Jigsaw is now repurposed to filter political dissent and label certain narratives as “dangerous misinformation.”
+
+> Targeted Individual Censorship: If a person is flagged as a “disruptive influence”—such as an independent journalist, human rights activist, or researcher—they may be shadow-banned across multiple Google services, including Gmail, Chrome, and YouTube.
+
+> Google’s algorithmic filtering limits access to groundbreaking scientific research, alternative energy solutions, and medical breakthroughs. Researchers working on controversial or disruptive technologies often find their work suppressed or erased entirely.
+
+> corporate interests
+
+> Researchers who oppose the status quo or threaten the power structures of large corporations are often targeted by Google’s censorship infrastructure.
+
+https://www.youtube.com/watch?v=FvmGIFShz9k
+
+> Israel’s Final Solution For The Goyim
+>
+> NXR Studios
+>
+> 06.02.2026
+>
+> Israel's information warfare
+
+
+
 ### offline first
 
 do not rely on the internet
