@@ -529,3 +529,17 @@ is the
     - "good luck with scaling and hosting" https://github.com/CocoaPods/CocoaPods/issues/4989#issuecomment-193772935
   - [gitgeist: a git-based social network proof of concept @ lwn.net](https://lwn.net/Articles/780365/)
   - https://github.com/opersys/gitgeist-poc
+- p2p chat apps
+  - https://www.messenger-matrix.de/messenger-matrix-en.html
+    - https://codeberg.org/kuketzblog/www.messenger-matrix.de
+    - Briar
+    - XMPP
+    - SimpleX
+  - https://bkil.gitlab.io/secuchart/
+  - https://eylenburg.github.io/im_comparison.htm
+  - https://simplifiedprivacy.com/messengers/
+  - https://satscryption.substack.com/p/unlocking-the-future-of-secure-communication
+  - https://www.securemessagingapps.com/
+    - https://github.com/markxwilliams/securemess
+  - https://wiki.volla.online/index.php?title=Messenger_Comparison
+  - https://awesome-privacy.xyz/communication/p2p-messaging
