@@ -510,6 +510,7 @@ is the
 - https://github.com/2gatherproject/decentralized-social-apps-guide#githubgitlab-alternatives
 - https://github.com/gdamdam/awesome-decentralized-web#collaboration
 - https://github.com/markqvist/Reticulum - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
+  - https://github.com/lorien/awesome-reticulum
   - https://reticulum.network/
   - https://github.com/BeechatNetworkSystemsLtd/Reticulum-rs
   - https://github.com/BeechatNetworkSystemsLtd/rns-vpn-rs
