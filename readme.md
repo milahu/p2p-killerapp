@@ -423,6 +423,18 @@ is the
 
 
 
+### semantic web
+
+- mindmaps
+  - collaborative mindmapping
+  - collaborative mindmaps
+- knowledge graph
+  - everything can be connected to everything
+- the two fundamental properties of all objects are place and time
+  - place can be either a physical place (GPS coordinates) or a "theoretical place" (word, phrase, concept, idea, meme)
+
+
+
 ## possible project names
 
 - tribesnet
